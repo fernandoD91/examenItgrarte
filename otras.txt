@@ -1,0 +1,58 @@
+1. ¿El comando git add, lo ejecutamos antes o después de hacer el commit?.
+
+Antes
+Después
+No se usa ese comando
+2. ¿Con cual comando podemos ver las etiquetas (tags) de un repositorio?.
+
+git tag show
+git tag
+git tag see
+git tag look
+3. ¿Qué función tiene el mensaje que incluimos en cada commit?
+
+Proporciona información del commit,
+Describe los cambios que registra el commit,
+Explica las mejoras o soluciones que se han implementado,
+Todas son correctas.
+4. Si quiero actualizar la rama en la que estoy trabajando con la rama principal, ¿qué comando debo utilizar?
+
+git merge
+git rebase
+cualquiera
+ninguno
+5. Si quiero incluir en la rama principal lo que estuve desarrollando en otra rama, ¿qué comando debo utilizar?
+
+git rebase
+git merge
+cualquiera
+niguno
+6. Si quiero reportar errores, sugerir cambios o características, ¿Qué función de GitHub debo utilizar?
+
+El foro de debates (discussions?
+La documentación del proyecto (wiki)
+Las incidencias (issues)
+las solicitudes de extracción (pull request)
+7. ¿Que función debemos activar en GitHub para utilizar un repositorio como página web?
+
+GitHub projects
+GitHub webs
+GitHub wiki
+GitHub pages
+8. Marca todos los pasos que debo seguir para aportar con mi trabajo a un proyecto al que  no me han agregado como colaborador.
+
+subir los cambios a GitHub
+Crear una nueva rama
+iniciar una pull request
+Darle seguimiento a la pull request hasta que sea combinada o rechazada.
+bifurcar el repositorio del proyecto
+Crear una incidencia solicitando que me agreguen
+Enviar una pull request
+Cambiarme a la nueva rama.
+Hacer los commits correspondientes
+clonar el repositorio del proyecto
+Clonar el repositorio bifurcado.
+Explicar las modificaciones que hice y por qué.
+Realizar mis aportes
+escribir por correo a los responsables del proyecto
+Combinar la rama en la que trabajé con la rama principal
